@@ -1,0 +1,28 @@
+#footer {
+background: #222;
+color: #666;
+font-family: ProximaNova, Helvetica, Arial;
+font-size: 12px;
+height: 25px;
+}
+
+#footer .link-container {
+float: left;
+display: inline;
+padding: 5px 0 0 10px;
+}
+
+#footer .recycle-container {
+float: right;
+display: inline;
+}
+
+#footer .recycle-container #recycle {
+background-color: #00A9E0;
+color: #FFF;
+cursor: pointer;
+font-size: 18px;
+height: 25px;
+padding: 4px;
+width: 25px;
+}
