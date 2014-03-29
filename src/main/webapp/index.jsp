@@ -23,6 +23,6 @@
 <script src="static/angularjs/angular-route.min.js"></script>
 
 <!-- APP -->
-<script src="static/js/app/App.js"></script>
-<script src="static/js/app/controllers/Dashboard.js"></script>
+<script src="static/app/App.js"></script>
+<script src="static/app/controllers/Dashboard.js"></script>
 </html>

@@ -7,11 +7,11 @@
 	
 	app.config(['$routeProvider', function($routeProvider) {
 	  $routeProvider.when('/', {
-		  templateUrl: 'static/js/app/views/dashboard.jsp',
+		  templateUrl: 'static/app/views/dashboard.jsp',
 		  controller: 'DashboardController'
 	  });
 	  $routeProvider.when('test', {
-		  templateUrl: 'static/js/app/views/dashboard.jsp',
+		  templateUrl: 'static/app/views/dashboard.jsp',
 		  controller: 'DashboardController'
 	  });
 	  $routeProvider.otherwise({
